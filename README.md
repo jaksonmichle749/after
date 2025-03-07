@@ -1,3 +1,5 @@
+---
+
 # After Program | برنامج After
 
 A program that runs a command after a certain process ends by using the process ID (PID) or process name.
@@ -7,11 +9,23 @@ A program that runs a command after a certain process ends by using the process 
 ## Usage | كيفية الاستخدام
 
 ### English | الإنجليزية
-```bash ./program $PID "sudo apt upgrade -y" ```
-Note | ملاحظة
-i made this program for fun so there's a bugs, if you like to take it and edit it to make your own feel free but don't forget me ;>
- ```Note: The source code file is in after.c```
-صنعت هذا البرنامج للمتعة لذا هناك العديد من الثغرات فيه، إذا أعجبك أن تأخذ البرنامج وتصنع نسختك الخاصة، أنت حر، لكن لا تنسني ;>
 
- ملاحظة:ملف الشفرة في after.c
+```bash
+./program $PID "sudo apt upgrade -y"
+```
 
+### Note | ملاحظة
+
+I created this program for fun, so there might be some bugs. If you like it and want to modify it for your own use, feel free to do so, but please give credit :>
+
+صنعت هذا البرنامج للمتعة لذا هناك العديد من الثغرات فيه. إذا أعجبك البرنامج وأردت تعديله لاستخدامك الخاص، لا تتردد ولكن من فضلك لا تنساني <:
+
+### Source Code | شفرة المصدر
+
+The source code file is in `after.c`.
+
+ملف الشفرة في `after.c`.
+
+---
+
+Feel free to customize further if needed!

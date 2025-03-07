@@ -6,7 +6,7 @@ A program that runs a command after a certain process ends by using the process 
 
 برنامج يقوم بتشغيل أمر بعد انتهاء عملية معينة باستخدام رقم العملية (PID) أو اسم العملية.
 
- [Usage | كيفية الاستخدام]
+# Usage | كيفية الاستخدام
 
 ./program $PID "sudo apt upgrade -y"
 ---

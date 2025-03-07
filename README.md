@@ -13,9 +13,9 @@ A program that runs a command after a certain process ends by using the process 
 ---
 Note | ملاحظة
 ---
-I created this program for fun, so there might be some bugs. If you like it and want to modify it for your own use, feel free to do so, but please give credit :>
+I created this program because I have free time, so there might be some bugs. If you like it and want to modify it for your own use, feel free to do so, but please give credit :>
 
-صنعت هذا البرنامج للمتعة لذا هناك العديد من الثغرات فيه. إذا أعجبك البرنامج وأردت تعديله لاستخدامك الخاص، لا تنساني :>
+صنعت هذا البرنامج لأن لدي وقت فراغ، لذا قد يحتوي على بعض الثغرات. إذا أعجبك البرنامج وأردت تعديله لاستخدامك الخاص، لا تتردد ولكن من فضلك لا تنساني <:
 
 ---
 Source Code | شفرة المصدر

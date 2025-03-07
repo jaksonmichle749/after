@@ -12,3 +12,6 @@ Note | ملاحظة
 i made this program for fun so there's a bugs, if you like to take it and edit it to make your own feel free but don't forget me ;>
 
 صنعت هذا البرنامج للمتعة لذا هناك العديد من الثغرات فيه، إذا أعجبك أن تأخذ البرنامج وتصنع نسختك الخاصة، أنت حر، لكن لا تنسني ;>
+
+ ملاحظة:ملف الشفرة في after.c
+ Note: The source code file is in after.c

@@ -8,6 +8,7 @@ A program that runs a command after a certain process ends by using the process 
 
 # Usage | كيفية الاستخدام
 
+```bash
 ./program $PID "sudo apt upgrade -y"
 ---
 Note | ملاحظة

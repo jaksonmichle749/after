@@ -8,8 +8,9 @@ A program that runs a command after a certain process ends by using the process 
 
 # Usage | كيفية الاستخدام
 
-./program $PID "sudo apt upgrade -y"
-
+./after $PID "sudo apt upgrade -y"
+-or you can move it to /usr/local/bin to use it any time in any path
+-او يمكنك نقله الى مسار /usr/local/bin لاستعماله في اي مكان و اي وقت
 ---
 Note | ملاحظة
 ---
